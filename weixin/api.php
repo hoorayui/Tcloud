@@ -1,2 +1,2 @@
 <?php
-echo 'wapi';
+echo $_REQUEST['echostr'];
